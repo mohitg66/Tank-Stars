@@ -23,6 +23,14 @@ cd Tank-Stars
 ```
 
 
+## UML Class Diagram
+<img src="UML Class-diagram.jpeg">
+
+
+## UML Use Case Diagram
+<img src="UML Use-case diagram.jpeg">
+
+
 ## Author
 
 **Mohit Gupta**
