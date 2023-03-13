@@ -24,7 +24,7 @@ cd Tank-Stars
 
 
 ## UML Class Diagram
-<img src="UML Class-diagram.jpeg">
+<img src="UML Class diagram.jpeg">
 
 
 ## UML Use Case Diagram
