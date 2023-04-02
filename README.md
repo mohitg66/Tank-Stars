@@ -1,7 +1,7 @@
 # Tank Stars
 **Tank Stars** is a clone of the popular game Tank Stars, developed using Java development framework **libGDX**.
 It utilizes the concepts of **OOPs** and uses **Design Patterns** like Singleton classes and Iterator. It also has some **JUint** test cases written in it.
-
+<img src="Tank Stars/assets/Loading Screen 1.jpg">
 
 ## Tech Stack
 
